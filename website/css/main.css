@@ -2,7 +2,7 @@ body {
 	background: silver;
 }
 
-.tn {
+.col-lg-4  {
 	margin-bottom: 3%;
 
 }
@@ -10,4 +10,14 @@ body {
 .img-thumbnail {
 	display: flex;
 	justify-content: center;	
+}
+
+.button {
+	display: flex;
+	justify-content: center;	
+	margin-top: 4%;
+}
+
+.qrcode {
+	margin-top: 5%;
 }
