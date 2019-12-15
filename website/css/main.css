@@ -1,0 +1,13 @@
+body {
+	background: silver;
+}
+
+.tn {
+	margin-bottom: 3%;
+
+}
+
+.img-thumbnail {
+	display: flex;
+	justify-content: center;	
+}
